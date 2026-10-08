@@ -1,0 +1,13 @@
+.gradle/
+**/build/
+local.properties
+*.apk
+*.aab
+*.iml
+.idea/
+*.wav
+*.pcm
+*.npy
+*.zip
+__pycache__/
+*.py[cod]
